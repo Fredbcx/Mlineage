@@ -1,7 +1,0 @@
-README.md
-pyproject.toml
-mlineage.egg-info/PKG-INFO
-mlineage.egg-info/SOURCES.txt
-mlineage.egg-info/dependency_links.txt
-mlineage.egg-info/requires.txt
-mlineage.egg-info/top_level.txt
